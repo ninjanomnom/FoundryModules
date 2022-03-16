@@ -4,8 +4,14 @@
     "description": "Changes to D&D 5th edition rules to better integrate with UVG. Work in progress.",
     "author": "ninjanomnom",
     "version": "0.1.0",
+    
     "minimumCoreVersion": "9",
     "compatibleCoreVersion": "9",
+    "system": [ "dnd5e" ],
+
+    "manifest": "https://raw.githubusercontent.com/ninjanomnom/FoundryModules/main/UVG-for-5e/module.json",
+    "download": "https://github.com/ninjanomnom/FoundryModules/releases/download/v0.1.0/UVG-for-5e-v0.1.0.zip",
+
     "languages": [
         {
           "lang": "en",
