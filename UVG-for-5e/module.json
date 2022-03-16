@@ -1,0 +1,19 @@
+{
+    "name": "Ultraviolet-Grasslands-for-5e",
+    "title": "Ultraviolet Grasslands For D&D 5e",
+    "description": "Changes to D&D 5th edition rules to better integrate with UVG. Work in progress.",
+    "author": "ninjanomnom",
+    "version": "0.1.0",
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
+    "languages": [
+        {
+          "lang": "en",
+          "name": "English",
+          "path": "lang/en.json"
+        }
+    ],
+    "esmodules": [
+        "scripts/data.js"
+    ]
+}
