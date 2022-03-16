@@ -1,7 +1,9 @@
 {
     "name": "Ultraviolet-Grasslands-for-5e",
     "title": "Ultraviolet Grasslands For D&D 5e",
+    "url": "https://github.com/ninjanomnom/FoundryModules/tree/main/UVG-for-5e",
     "description": "Changes to D&D 5th edition rules to better integrate with UVG. Work in progress.",
+    "readme": "https://github.com/ninjanomnom/FoundryModules/tree/main/UVG-for-5e/README.md",
     "author": "ninjanomnom",
     "version": "0.1.0",
     
